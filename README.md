@@ -1,8 +1,8 @@
 # DrugBank Relational Database 
 
-A relational database of DrugBank XSD schema, the repository contains the following:
+A relational database schema of [DrugBank](http://www.drugbank.ca), the repository contains the following:
 
-0. drugbank.sql MySQL script which can be used to create your drug-bank schema.
-0. drugbank.mwb ERD model which can be opened using MySQL Workbench. 
+0. MySQL script which can be used to create your drugbank schema.
+0. ERD model which can be opened using MySQL Workbench. 
 
 ![DrugBank ERD](https://github.com/ashrafsarhan/drugbank-relational-database/blob/master/drugbank.png)
